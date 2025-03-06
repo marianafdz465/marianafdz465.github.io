@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Domestic Workers in the Tech Space
-description: Manuscript under review
+description: Manuscript accepted to present at CSCW 2025
 img: assets/img/DW.png
 importance: 6
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Inclusion Through Virtual Reality
-description: Manuscript under review
+description: Manuscript accepted to present at CHI 2025
 img: assets/img/VRFamiliarityP1.png
 importance: 1
 category: work
