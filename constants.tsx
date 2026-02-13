@@ -3,7 +3,7 @@ import { Publication, Project, Update, Writing } from './types';
 
 export const BIO = {
   name: "Mariana Fernandez-Espinosa",
-  role: "PhD Student in Computer Science",
+  role: "3rd Year PhD Student in Computer Science",
   university: "University of Notre Dame",
   focus: "Human-Centered AI & Digital Ethics",
   description: "I am a third-year PhD student at the University of Notre Dame. My research is focused on human-centered AI and digital ethics, specifically investigating how algorithmic transparency affects user trust.",
